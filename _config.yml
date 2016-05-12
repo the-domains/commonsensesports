@@ -1,0 +1,28 @@
+name: CommonSenseSports
+favicon: null
+layout_spectrum: 0.597881976980716
+typography_spectrum: 0.7266074439976364
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#B8B42D'
+    - '#697A21'
+    - '#FFFCE8'
+    - '#3E363F'
+    - '#DD403A'
+  brandStrength: 0.6365933562628925
+  lightness: 0.7629171586595476
+  saturation: 0.42323916289024055
+  rhythmicContrast: 0.10146603872999549
+purpose: []
